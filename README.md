@@ -1,3 +1,3 @@
 # Bolboltweet
 
-Bolboltweet is going to tweet based on an AI algorythm.
+Bolboltweet is going to tweet based on an AI algorithm.
